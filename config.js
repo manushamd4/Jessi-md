@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+94779529221', 'Mr.White Shadow', true]
+  ['+94701660489', 'Mr.MD MANUSHA', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
@@ -71,9 +71,9 @@ global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ ᴍʀ.ᴡʜɪᴛᴇ ꜱʜᴀᴅᴏᴡ - 2023'
+global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ ᴍʀ.MD MANUSHA - 2024'
 global.bott = 'Jessi-md'
-global.nomorown = '94779529221'
+global.nomorown = '94701660489'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
