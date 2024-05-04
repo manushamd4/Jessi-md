@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+94701660489', 'Mr.MD MANUSHA', true]
+  ['+94769686507', 'Mr.MD MANUSHA', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
@@ -72,8 +72,8 @@ global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
 global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ ᴍʀ.MD MANUSHA - 2024'
-global.bott = 'Jessi-md'
-global.nomorown = '94701660489'
+global.bott = 'MANUSHA-md'
+global.nomorown = '94769686507'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
